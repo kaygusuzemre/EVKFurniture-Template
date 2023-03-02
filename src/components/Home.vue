@@ -27,6 +27,7 @@
                     <li class="navbar-item">
                         <router-link class="nav-link text-decoration-none text-uppercase text-light fs-6 fw-bold"
                             to="/agency">agency</router-link>
+
                     </li>
                     <li class="navbar-item">
                         <router-link class="nav-link text-decoration-none text-uppercase text-light fs-6 fw-bold"

@@ -109,8 +109,9 @@
                         </div>
                     </div>
                 </div>
-                <button class="btn text-light fw-bold text-uppercase p-4 w-100 my-3" style="background-color:#18272d;">show
-                    all</button>
+                <router-link to="/worx"><button class="btn text-light fw-bold text-uppercase p-4 w-100 my-3"
+                        style="background-color:#18272d;">show
+                        all</button></router-link>
             </div>
         </div>
 
