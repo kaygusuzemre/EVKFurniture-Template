@@ -10,7 +10,8 @@
             <div class="navbar-item nav-logo">
                 <a class="nav-link text-uppercase text-decoration-none" href="/">
                     <!-- <h1 class="display-4">EVK</h1> -->
-                    <img src="../assets/img/EVK.png" class="" alt="" style="height:10vh; width:auto; border-radius:50px;">
+                    <img src="../assets/img/EVK.png" class="" alt=""
+                        style="height:10vh; width:auto; border-radius:50px;">
                 </a>
             </div>
             <!-- Navbar List -->
